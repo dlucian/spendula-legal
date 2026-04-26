@@ -50,9 +50,9 @@ relationships with:
 
 - **Their bank**, governed by the bank's own terms.
 - **Enable Banking Oy**, governed by Enable Banking's terms:
-  https://enablebanking.com/terms-of-service/
+  https://enablebanking.com/terms
 - **You Need A Budget LLC**, governed by YNAB's terms:
-  https://www.ynab.com/terms-of-service
+  https://www.ynab.com/terms
 
 Spendula merely orchestrates calls between these services on the operator's
 behalf under the operator's own credentials and consents. It does not assume,
@@ -86,4 +86,4 @@ changes will be reflected here before they take effect.
 
 For any question about these terms:
 
-**lucian@monitive.com**
+**dlucian@gmail.com**
