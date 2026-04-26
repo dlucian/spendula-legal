@@ -4,16 +4,13 @@
 
 ## What Spendula is
 
-Spendula is open-source software, distributed under the MIT licence, that an
-individual operator can self-host to import their own bank transactions (via
+Spendula is self-hosted personal-finance software that an individual operator
+runs on their own infrastructure to import their own bank transactions (via
 Enable Banking, a regulated PSD2 Account Information Service Provider) into
 their own YNAB (You Need A Budget) account.
 
-The canonical source is:
-**https://github.com/dlucian/spendula**
-
 Spendula is not a hosted service. There is no shared instance, no sign-up, no
-multi-tenant deployment. Every operator runs their own copy on their own
+multi-tenant deployment. The operator runs their own copy on their own
 infrastructure, processes only their own bank data, and is solely responsible
 for that copy.
 
@@ -25,10 +22,10 @@ the production application. Because the only person authorised to use this
 instance is the operator, the operator is also the only party bound by these
 terms.
 
-A separate party who wishes to run their own Spendula instance does so under
-the MIT licence terms in the source repository, and would need to register
-their own Enable Banking application — these terms do not apply to that
-deployment.
+These terms govern only this operator's use of this instance. They do not
+purport to license or otherwise govern any future redistribution of the
+software; any such redistribution will be covered by the licence under which
+the software is published at that time.
 
 ## Permitted use
 

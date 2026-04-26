@@ -76,8 +76,7 @@ Spendula relies on two third-party services to perform its function:
   destination. Approved transactions are pushed to the operator's YNAB plan.
   Their privacy policy: https://www.ynab.com/privacy-policy
 
-No other third parties receive any of the data. The repository is hosted on
-GitHub, but no operator data is ever transmitted to GitHub — only source code.
+No other third parties receive any of the data.
 
 ## Retention
 

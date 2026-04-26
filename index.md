@@ -5,8 +5,6 @@ individual operator can self-host to import their own bank transactions (via
 Enable Banking, a regulated PSD2 Account Information Service Provider) into
 their own YNAB (You Need A Budget) account.
 
-Source code: [github.com/dlucian/spendula](https://github.com/dlucian/spendula)
-
 ## Documents
 
 - [Privacy Policy](privacy)
